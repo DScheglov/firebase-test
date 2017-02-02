@@ -1,0 +1,13 @@
+.user-list {
+
+}
+
+.user-list table {
+  border-collapse: collapse;
+}
+
+.user-list table td, th {
+  border: 1px solid #ccc;
+  padding: 1em;
+  text-align: left;
+}
